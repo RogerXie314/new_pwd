@@ -1,0 +1,9 @@
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.Form1.resources
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.Properties.Resources.resources
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.csproj.GenerateResource.cache
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.csproj.CoreCompileInputs.cache
+D:\C#\new_pwd\new_pwd\bin\Debug\new_pwd.exe.config
+D:\C#\new_pwd\new_pwd\bin\Debug\new_pwd.exe
+D:\C#\new_pwd\new_pwd\bin\Debug\new_pwd.pdb
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.exe
+D:\C#\new_pwd\new_pwd\obj\Debug\new_pwd.pdb
